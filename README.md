@@ -13,6 +13,7 @@ Previously to the actual Corona virus SARS Cov-2 crisis, several epidemics occur
 
 Several model has been developped nowadays to understand the spread of an epidemy. I choosed to illustrate several models (from the simplest one to the most complex) :  
 
+0. Live simulation of the spread of an epidemy.
 1. SIR, where people can be Infected (I), Recovered (R) or Susceptible (S, i.e. people that can get sick).
 2. SEIRS, where people can get susceptible again after they got sick and where people have a period of incubation (E).
 3. A model with solution including vaccination and quarantine.
